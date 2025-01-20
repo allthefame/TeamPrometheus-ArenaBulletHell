@@ -5,12 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_SpatialInventory.uasset",
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_SpatialInventory.uasset",
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/SpatialInventory/BP_ContainerItem.uasset",
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Art/UI/M_Null.uasset",
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_Container.uasset",
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Art/UI/Inventory/TextRefs/Inventory_Tile1.uasset"
+				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap"
 			]
 		}
 	]
