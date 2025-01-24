@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/WhiteBox.umap",
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_Container.uasset",
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Enemies/BP_Enemy_Base.uasset",
@@ -17,6 +18,10 @@
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_ContainerCell.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/WhiteBox.umap",
 				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap"
+=======
+				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap",
+				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
