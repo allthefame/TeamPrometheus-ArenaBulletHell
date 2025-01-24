@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/WhiteBox.umap",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_Container.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Enemies/BP_Enemy_Base.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Players/BP_Hero_Base.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_DamageSystem.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/AI/BT_Enemy_Base.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/SpatialInventory/BP_ContainerItem.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_SpatialInventory.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_ContainerItem.uasset",
+				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_ContainerCell.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/WhiteBox.umap",
 				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap"
 			]
