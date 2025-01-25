@@ -1979,3 +1979,90 @@ Sampler Limit: 32
 [2025.01.25-07.26.39:077][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.01.25-07.26.39:077][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.01.25-07.26.39:078][ 89]AssetCheck: /Game/Levels/TestBox Validating asset
+[2025.01.25-07.28.03:951][409]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.01.25-07.28.03:962][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.25-07.28.03:962][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestBox
+[2025.01.25-07.28.04:388][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.425502s)
+[2025.01.25-07.28.04:388][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestBox.TestBox to /Game/Levels/UEDPIE_0_TestBox.TestBox (0.425547s)
+[2025.01.25-07.28.04:415][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.01.25-07.28.04:416][409]LogChaosDD: Creating Chaos Debug Draw Scene for world TestBox
+[2025.01.25-07.28.04:418][409]LogPlayLevel: PIE: World Init took: (0.002051s)
+[2025.01.25-07.28.04:418][409]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.25-07.28.04:419][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.25-07.28.04:419][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.25-07.28.04:419][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.25-07.28.04:419][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.25-07.28.04:419][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.25-07.28.04:421][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.25-07.28.04:439][409]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.01.25-07.28.04:439][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.25-07.28.04:439][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.25-07.28.04:439][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.25-07.28.04:440][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.01.25-07.28.04:440][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.01.25-07.28.04:443][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.01.25-07.28.04:443][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.01.25-07.28.04:443][409]LogInit: FAudioDevice initialized with ID 5.
+[2025.01.25-07.28.04:443][409]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestBox'.
+[2025.01.25-07.28.04:443][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.25-07.28.04:500][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.28.04:501][409]LogLoad: Game class is 'GM_Base_C'
+[2025.01.25-07.28.04:513][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestBox.TestBox up for play (max tick rate 60) at 2025.01.25-02.28.04
+[2025.01.25-07.28.04:514][409]LogWorld: Bringing up level for play took: 0.012655
+[2025.01.25-07.28.04:516][409]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.01.25-07.28.04:519][409]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2025.01.25-07.28.04:538][409]PIE: Server logged in
+[2025.01.25-07.28.04:539][409]PIE: Play in editor total start time 0.578 seconds.
+[2025.01.25-07.28.47:861][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.25-07.28.47:861][ 38]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestBox
+[2025.01.25-07.28.47:861][ 38]LogSlate: Window 'Artifact Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.01.25-07.28.48:085][ 38]LogWorld: UWorld::CleanupWorld for TestBox, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-07.28.48:089][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.28.48:098][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.25-07.28.48:110][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-07.28.48:149][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.01.25-07.28.48:150][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.25-07.28.48:152][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.01.25-07.28.48:169][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.01.25-07.28.48:324][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.01.25-07.29.30:702][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.29.30:922][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestBox" FILE="C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.25-07.29.31:008][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.01.25-07.29.31:439][846]LogSavePackage: Moving output files for package: /Game/Levels/TestBox
+[2025.01.25-07.29.31:440][846]LogSavePackage: Moving 'C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Saved/TestBoxDB6521E9451BE83D07AAEB85F92F876E.tmp' to 'C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap'
+[2025.01.25-07.29.31:511][846]LogFileHelpers: Saving map 'TestBox' took 0.589
+[2025.01.25-07.29.31:537][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 834.391 ms (total: 14.8 sec)
+[2025.01.25-07.29.31:609][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.29.31:609][846]LogContentValidation: Enabled validators:
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.29.31:609][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.29.31:610][846]AssetCheck: /Game/Levels/TestBox Validating asset
+[2025.01.25-07.30.11:460][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.25-07.30.11:687][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestBox" FILE="C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.01.25-07.30.11:820][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.25-07.30.12:322][488]LogSavePackage: Moving output files for package: /Game/Levels/TestBox
+[2025.01.25-07.30.12:323][488]LogSavePackage: Moving 'C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Saved/TestBox909C044643E4996ACE41DD8F98D1E586.tmp' to 'C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap'
+[2025.01.25-07.30.12:361][488]LogFileHelpers: Saving map 'TestBox' took 0.675
+[2025.01.25-07.30.12:388][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 927.929 ms (total: 15.7 sec)
+[2025.01.25-07.30.12:476][488]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.25-07.30.12:476][488]LogContentValidation: Enabled validators:
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.25-07.30.12:476][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.25-07.30.12:477][488]AssetCheck: /Game/Levels/TestBox Validating asset
+[2025.01.25-07.30.37:642][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4176.841797
+[2025.01.25-07.30.38:646][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.25-07.30.38:646][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4177.504395, Update Interval: 303.898438
