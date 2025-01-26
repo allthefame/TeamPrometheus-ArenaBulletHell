@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap"
+				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap",
+				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		}
 	]
