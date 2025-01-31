@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_SpatialInventory.uasset",
+<<<<<<< Updated upstream
 				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_SpatialInventory.uasset",
+=======
+>>>>>>> Stashed changes
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Enemies/BP_Enemy_Base.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Players/BP_Hero_Base.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Audio/Ref/Steps_for_Dungeon.uasset",
