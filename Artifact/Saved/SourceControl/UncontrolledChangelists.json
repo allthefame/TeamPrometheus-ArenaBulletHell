@@ -5,26 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_SpatialInventory.uasset",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-				"C:/Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Widgets/WBP_SpatialInventory.uasset",
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Enemies/BP_Enemy_Base.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Players/BP_Hero_Base.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Audio/Ref/Steps_for_Dungeon.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Default/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Weapons/Projectiles/BP_EnemyBaseProj.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Weapons/Projectiles/BP_HeroBaseProj.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/SpatialInventory/BP_ContainerItem.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Misc/BP_MVPEnemySpawn.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_DamageSystem.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/WhiteBox.umap",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Components/BPC_SpatialInventory.uasset",
+				"/Users/robertoruiz_usv/Desktop/TeamPrometheus-ArenaBulletHell/Artifact/Content/Audio/SoundCues/SC_Steps.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Characters/Enemies/BP_Enemy_Base.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Misc/PC_Base.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/AI/BT_Enemy_Base.uasset",
 				"/Users/chris/UnrealProject/TeamPrometheus-ArenaBulletHell/Artifact/Content/Blueprints/Weapons/Projectiles/BP_EnemyBaseProj.uasset",
 				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Levels/TestBox.umap",
-				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-				"C:/Users/fkeme/Documents/GitHub/TeamPrometheus-ArenaBulletHell/Artifact/Content/Art/Misc/BasicShapeMaterial.uasset"
+				"D:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		}
 	]
