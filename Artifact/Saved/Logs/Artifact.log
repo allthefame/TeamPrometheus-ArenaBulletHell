@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 01/30/25 17:46:46
+=======
+﻿Log file open, 01/30/25 17:33:06
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 01/30/25 17:33:06
 >>>>>>> Stashed changes
@@ -11,7 +15,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=87600)
+=======
+LogWindows: Started CrashReportClient (pid=85232)
+>>>>>>> Stashed changes
 =======
 LogWindows: Started CrashReportClient (pid=85232)
 >>>>>>> Stashed changes
@@ -36,7 +44,11 @@ LogCsvProfiler: Display: Metadata set : commandline="" C:\Repos\Artifact\TeamPro
 LogCsvProfiler: Display: Metadata set : loginid="eb701e58439c8ee2a6d85ebe56529395"
 LogCsvProfiler: Display: Metadata set : llm="0"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.234325
+=======
+LogStats: Stats thread started at 0.237843
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.237843
 >>>>>>> Stashed changes
@@ -45,7 +57,11 @@ LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: 
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
          Session CrashGUID >   UECC-Windows-F2BA5177478346EBCBB87680AF856E7A
+=======
+         Session CrashGUID >   UECC-Windows-7086900D4AD55FF8B5BB1EBCDB748762
+>>>>>>> Stashed changes
 =======
          Session CrashGUID >   UECC-Windows-7086900D4AD55FF8B5BB1EBCDB748762
 >>>>>>> Stashed changes
@@ -64,6 +80,7 @@ LogPluginManager: Looking for build plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Binaries/Win64/*.target
 LogAssetRegistry: Display: Asset registry cache read as 39.6 MiB from ../../../../../../Repos/Artifact/TeamPrometheus-ArenaBulletHell/Artifact/Intermediate/CachedAssetRegistry_0.bin
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
 LogConfig: Display: Loading Mac ini files took 0.05 seconds
 LogConfig: Display: Loading IOS ini files took 0.05 seconds
@@ -75,6 +92,8 @@ LogConfig: Display: Loading VisionOS ini files took 0.07 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
 LogConfig: Display: Loading Linux ini files took 0.07 seconds
 =======
+=======
+>>>>>>> Stashed changes
 LogConfig: Display: Loading Mac ini files took 0.06 seconds
 LogConfig: Display: Loading IOS ini files took 0.06 seconds
 LogConfig: Display: Loading Android ini files took 0.06 seconds
@@ -85,6 +104,9 @@ LogConfig: Display: Loading TVOS ini files took 0.07 seconds
 LogConfig: Display: Loading VisionOS ini files took 0.07 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
 LogConfig: Display: Loading Linux ini files took 0.08 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
@@ -103,6 +125,7 @@ LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin UbaController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin DatasmithContent
@@ -126,12 +149,18 @@ LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin NiagaraSimCaching
 LogPluginManager: Mounting Engine plugin AlembicImporter
 >>>>>>> Stashed changes
+=======
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin AlembicImporter
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin MediaCompositing
 LogPluginManager: Mounting Engine plugin MediaPlate
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin WebMMedia
@@ -152,6 +181,8 @@ LogPluginManager: Mounting Engine plugin CableComponent
 LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin WmfMedia
 LogPluginManager: Mounting Engine plugin ActorSequence
@@ -177,21 +208,30 @@ LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin CableComponent
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ComputeFramework
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin HairStrands
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
@@ -205,8 +245,13 @@ LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin ResonanceAudio
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin RigVM
 LogPluginManager: Mounting Engine plugin SignificanceManager
+=======
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RigVM
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin RigVM
@@ -216,6 +261,7 @@ LogPluginManager: Mounting Engine plugin StateTree
 LogPluginManager: Mounting Engine plugin USDCore
 LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin Synthesis
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
@@ -316,6 +362,111 @@ LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin EOSShared
 LogPluginManager: Mounting Engine plugin SequencerScripting
+=======
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin RigLogic
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EngineCameras
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin N10XSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin ColorGrading
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UMGWidgetPreview
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin AdvancedRenamer
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin EditorTelemetry
+LogPluginManager: Mounting Engine plugin EditorDataStorage
+LogPluginManager: Mounting Engine plugin EditorPerformance
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin LowLevelNetTrace
+LogPluginManager: Mounting Engine plugin NFORDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin StudioTelemetry
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin InterchangeAssets
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin Interchange
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
@@ -428,6 +579,7 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin XInputDevice
 LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
 LogPluginManager: Mounting Engine plugin LightMixer
@@ -458,6 +610,22 @@ LogPluginManager: Mounting Engine plugin HoldoutComposite
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+=======
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
+LogPluginManager: Mounting Engine plugin HoldoutComposite
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin MetaHumanSDK
 LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
@@ -556,6 +724,7 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
 LogDevObjectVersion:   Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.34ms
 LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.18ms
@@ -729,6 +898,8 @@ LogConfig: Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-de
 LogConfig: Branch 'ContentBrowserClassDataSource' had been unloaded. Reloading on-demand took 0.16ms
 LogConfig: Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.16ms
 =======
+=======
+>>>>>>> Stashed changes
 LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.42ms
 LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.19ms
 LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.18ms
@@ -900,6 +1071,9 @@ LogConfig: Branch 'LightMixer' had been unloaded. Reloading on-demand took 0.16m
 LogConfig: Branch 'OnlineSubsystemIOS' had been unloaded. Reloading on-demand took 0.17ms
 LogConfig: Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.16ms
 LogConfig: Branch 'PortableObjectFileDataSource' had been unloaded. Reloading on-demand took 0.17ms
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.17ms
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC.
@@ -923,6 +1097,7 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.01.31-01.46.46:791][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2025.01.31-01.46.46:791][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -1872,6 +2047,8 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.31-01.46.55:235][ 77]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-4bxtI3NfGE-o0V0Ea4Votw-6rhHgldH7ka1jo4NYRxY-w]
 [2025.01.31-01.46.55:665][129]MaterialEditorStats: Base pass vertex shader: 145 instructions
 =======
+=======
+>>>>>>> Stashed changes
 [2025.01.31-01.33.06:674][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2025.01.31-01.33.06:674][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2025.01.31-01.33.06:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -2829,12 +3006,16 @@ Samplers Used: 1
 Sampler Limit: 32
 
 [2025.01.31-01.33.47:064][452]MaterialEditorStats: Base pass vertex shader: 145 instructions
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Stats: Resources Used: 4
 Resource Limit: 64
 Samplers Used: 0
 Sampler Limit: 32
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.01.31-01.46.55:665][129]MaterialEditorStats: Texture samplers: 0/16
 [2025.01.31-01.46.55:665][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
@@ -3289,6 +3470,8 @@ Sampler Limit: 32
 [2025.01.31-02.34.43:778][560]LogExit: Exiting.
 [2025.01.31-02.34.43:795][560]Log file closed, 01/30/25 18:34:43
 =======
+=======
+>>>>>>> Stashed changes
 [2025.01.31-01.33.47:064][452]MaterialEditorStats: Texture samplers: 1/16
 [2025.01.31-01.33.47:064][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2025.01.31-01.33.47:064][452]MaterialEditorStats: Shader Count: 5
@@ -3425,4 +3608,7 @@ Sampler Limit: 32
 [2025.01.31-01.46.18:925][684]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.01.31-01.46.18:961][684]LogExit: Exiting.
 [2025.01.31-01.46.18:978][684]Log file closed, 01/30/25 17:46:18
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
